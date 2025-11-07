@@ -1,4 +1,4 @@
-bgp-201-odev3
+# bgp-201-odev3
 [soru 1.txt](https://github.com/user-attachments/files/23424130/soru.1.txt)
 
 mergeArrays fonksiyonu iki farklı tipte dizi alıyor (T[] ve U[]).
